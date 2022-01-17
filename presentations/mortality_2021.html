@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+	<head>
+		<link rel="stylesheet" href="dist/reveal.css">
+		<link rel="stylesheet" href="dist/theme/black.css">
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section data-markdown="slides/_pathways/pathways_title.md" data-separator="\n---\n"></section>
+				<section data-markdown="slides/_mortality/background_LSOA.md" data-separator="\n---\n"></section>
+				<section data-markdown="slides/_parametric_models/equation_explain.md" data-separator="\n---\n" data-separator-vertical="\n-v-\n"></section>
+				<section data-markdown="slides/_mortality/results_LSOA.md" data-separator="\n---\n" data-separator-vertical="\n-v-\n"></section>
+			</div>
+		</div>
+		<script src="dist/reveal.js"></script>
+		<script src="plugin/markdown/markdown.js"></script>
+		<script src="plugin/math/math.js"></script>
+		<script>
+			Reveal.initialize({
+				slideNumber: true,
+				plugins: [ RevealMarkdown, RevealMath ]
+			});
+		</script>
+	</body>
+</html>
