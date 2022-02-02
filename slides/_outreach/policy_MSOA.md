@@ -1,28 +1,27 @@
 ## Influencing policy
 
 ---
-Lancet PH paper
+![](slides/_outreach/assets/lancet_2021.png)
 
 ---
-Policy at the time: build back better
+![](slides/_outreach/assets/imperial_press.png)<!-- .element style="width: 65%"-->
 
 ---
-Tweets
+![](slides/_outreach/assets/tweet_ja.png)<!-- .element style="width: 65%"-->
 
 -v-
-More tweets
+![](slides/_outreach/assets/tweet_jt.png)<!-- .element style="width: 65%"-->
 
 ---
-Articles
+![](slides/_outreach/assets/guardian_pt.png)
 
 -v-
-Other articles
+![](slides/_outreach/assets/telegraph_sk.png)<!-- .element style="width: 90%"-->
 
 ---
-#### Declines should not be happening in normal times
+<!-- .slide: style="text-align: left"-->
+Declines should not be happening in __normal times__.
 
-__Life expectancy declined__ in almost one in five communities for women, and one in nine communities for men in the five years before the pandemic (2014-19).
+__Life expectancy declined__ in one in five communities for women, and one in nine communities for men in the five years before the pandemic.
 
 In 2019, there was a __20-year gap__ in life expectancy for women. For men, the gap was __27 years__.
-
-To __Build Back Better__, the government must invest in people, communities and health services.
