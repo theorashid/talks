@@ -1,4 +1,4 @@
-<img src="slides/_spatial_models/assets/mortality_model_fit.png">
+![](slides/_spatial_models/assets/mortality_model_fit.png)
 
 ---
 <!-- .slide: data-background="#343434" -->
