@@ -1,5 +1,5 @@
 <!-- .slide: data-background="#FBFBFB" -->
-<!-- .slide: data-background-image="slides/_pathways/assets/LOGO_PEHC.png" data-background-size="25%" data-background-position="95% 95%"-->
+<!-- .slide: data-background-image="slides/_title/assets/LOGO_PEHC.png" data-background-size="25%" data-background-position="95% 95%"-->
 <br>
 <br>
 <br>

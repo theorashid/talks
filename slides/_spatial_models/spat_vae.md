@@ -8,6 +8,8 @@ Spatial posterior sites are highly correlated so MCMC __mixing is poor__.
 
 <img class="fragment current-visible" src="slides/_spatial_models/assets/spatVAE_paper.png">
 
+[arxiv.org/abs/2110.10422](https://arxiv.org/abs/2110.10422)<!-- .element style="font-size: 80%"-->
+
 -v-
 #### Variational autoencoder (VAE)
 ![](slides/_spatial_models/assets/VAE.png)
