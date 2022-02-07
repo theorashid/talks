@@ -5,7 +5,7 @@ effect | index | dimension | description
 ------ | ------|---------- | -----------
 age    | a     | 19        | age groups (0, 1-4, 5-9, ..., 80-84, 85+)
 space  | s     | 6791      | number of MSOAs
-time   | t     | 16        | years 2002-2019
+time   | t     | 18        | years 2002-2019
 
 ---
 $$
