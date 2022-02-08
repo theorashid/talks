@@ -25,7 +25,7 @@ def model(space, age, time, population, deaths=None):
         alpha_s = numpyro.sample("alpha_s", dist.Normal(0., sigma_space))
 
     with age_plate:
-        alpha_age_drift = numpyro.sample("alpha_age_drift", dist.Normal(0.,  alpha_age))
+        alpha_age_drift = numpyro.sample("alpha_age_drift", dist.Normal(0.,  sigma_alpha_age))
         alpha_age = jnp.cumsum(alpha_age_drift, -3)
     
     with year_plate:
