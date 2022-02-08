@@ -39,7 +39,7 @@ def model(space, age, time, population, deaths=None):
         mu = numpyro.deterministic("mu", expit(mu_logit))
         numpyro.sample(
             "deaths",
-            dist.BetaBinomial(mu * theta, (1 - mu) * theta, population),
+            dist.BetaBinomial(mu, theta, population),
             obs=deaths
         )
 ```
