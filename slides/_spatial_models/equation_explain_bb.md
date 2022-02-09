@@ -16,7 +16,7 @@ $$
 <!-- .slide: data-background="#343434" -->
 $$
 \text{logit} (m_{ast}) = \alpha_0 + \beta_0 t +
-            \alpha_{1s} + \beta_{2s} t +
+            \alpha_{1s} + \beta_{1s} t +
             \alpha_{2a} + \beta_{2a} t + 
             \xi_{as} + \nu_{st} + \gamma_{at}
 $$
