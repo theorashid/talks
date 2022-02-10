@@ -12,5 +12,5 @@ Structured spatial model: $S_{s} \sim \text{CAR} (0, \sigma_s^2)$
 
 -v-
 <!-- .slide: data-background="#343434" -->
-Gaussian Process: $S_{s} \sim \text{GP} ((m(\cdot), k(\cdot, \cdot))$
+Gaussian Process: $S_{s} \sim \text{GP} (m(\cdot), k(\cdot, \cdot))$
 ![](slides/_spatial_models/assets/MSOA_GP.png)
